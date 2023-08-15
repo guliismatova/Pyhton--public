@@ -143,33 +143,33 @@
 # print(result)
 
 
-#case4
-a= int(input("A = "))
-match a:
-    case 1:
-        print("31 kunlik")
-    case 2:
-        print("28 kunlik")
-    case 3:
-        print("31 kunlik")
-    case 4:
-        print("30 kunlik")
-    case 5:
-        print("31 kunlik")
-    case 6:
-        print("30 kunlik")
-    case 7:
-        print("31 kunlik")
-    case 8:
-        print("31 kunlik")
-    case 9:
-        print("30 kunlik")
-    case 10:
-        print("31 kunlik")
-    case 11:
-        print("30 kunlik")
-    case 12:
-        print("31 kunlik")
+# #case4
+# a= int(input("A = "))
+# match a:
+#     case 1:
+#         print("31 kunlik")
+#     case 2:
+#         print("28 kunlik")
+#     case 3:
+#         print("31 kunlik")
+#     case 4:
+#         print("30 kunlik")
+#     case 5:
+#         print("31 kunlik")
+#     case 6:
+#         print("30 kunlik")
+#     case 7:
+#         print("31 kunlik")
+#     case 8:
+#         print("31 kunlik")
+#     case 9:
+#         print("30 kunlik")
+#     case 10:
+#         print("31 kunlik")
+#     case 11:
+#         print("30 kunlik")
+#     case 12:
+#         print("31 kunlik")
 
 
 
@@ -182,4 +182,48 @@ match a:
 
 
         #case10
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ###################for18####################
+# n = int(input("Son1 = "))
+# a = int(input("Son2 = "))
+# sm1 = 0
+# sm2= 0
+# for i in range(0,n+1):
+#     sm1+=1
+#     pow(a,i)
+# for i in range(1,n+1):
+#     sm2+=1
+#     pow(a,i)
+#     print(sm1-sm2) XATO!
+
+
+########################for19######################
+# n = int(input("n = "))
+# kopaytma = 1
+# for i in range(1,n+1):
+#     kopaytma*=i
+# print(kopaytma)
+
+########################for20#####################
+# n = int(input("n = "))
+# kopaytma = 1
+# for i in range(1,n+1):
+#     kopaytma*=i+i
+# print(kopaytma)
